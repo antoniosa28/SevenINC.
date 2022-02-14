@@ -1,8 +1,1 @@
-# API SevenINC.
-
-# Tecnologias Utilizadas
-•	Node.js 
-•	Postman 
-•	MongoDB 
-
-
+# API SEVEN 7
